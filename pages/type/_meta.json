@@ -1,5 +1,8 @@
 {
   "index": "타입의 세계",
   "num": "Number (숫자)",
-  "string": "String (문자열)"
+  "string": "String (문자열)",
+  "bool": "Boolean (참과 거짓)",
+  "any": "Any (무엇이든!)",
+  "nau": "Null과 Undefined (존재하지 않아요)"
 }
