@@ -1,6 +1,6 @@
 # || 연산자 (이것도 저것도)
 
-가끔식 타입이 여러개 일때가 있어요. 그럴땐 `||` 연산자를 사용해봐요!
+가끔식 한 변수에 타입이 여러개가 필요할때가 있어요. 그럴땐 `||` 연산자를 사용해봐요!
 
 ```ts
 let multi_type_var: String || Number;
@@ -14,6 +14,8 @@ console.log(multi_type_var);
 > "3"
 > 3
 ```
+
+아래의 예시에서는 String과 Number만 담을 수 있게 했는데 Boolean값을 넣었기 때문에 에러가 나요.
 
 ```ts
 let multi_type_var: String | Number = 3;
