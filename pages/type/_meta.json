@@ -4,5 +4,7 @@
   "string": "String (문자열)",
   "bool": "Boolean (참과 거짓)",
   "any": "Any (무엇이든!)",
-  "nau": "Null과 Undefined (존재하지 않아요)"
+  "nau": "Null과 Undefined (존재하지 않아요)",
+  "aa": "Array<any> (모두 다 함께)",
+  "or": "|| 연산자 (이것도 저것도)"
 }
